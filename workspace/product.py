@@ -1,0 +1,1 @@
+PRODUCT = {'name': 'Orvio Finance', 'tagline': 'Clareza para o próximo movimento.', 'description': 'Contas, entradas, saídas e orçamento com números que você pode conferir.', 'primary': 'transactions', 'action': 'Novo lançamento', 'font': 'Manrope', 'accent': '#1d5fd6', 'slug': 'finance'}
