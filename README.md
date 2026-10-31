@@ -1,5 +1,7 @@
 # Orvio Finance
 
+[![Quality](https://github.com/orviostudio21/orvio-finance/actions/workflows/ci.yml/badge.svg)](https://github.com/orviostudio21/orvio-finance/actions/workflows/ci.yml)
+
 Clareza para o próximo movimento. Contas, entradas, saídas e orçamento com números que você pode conferir.
 
 Uma aplicação completa da [Orvio Studio](https://github.com/orviostudio21), com backend Django, banco relacional, autenticação e interface responsiva em português.
